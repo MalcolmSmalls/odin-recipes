@@ -1,0 +1,1 @@
+This is my submission to the Odin Project. I am attempting to show off all of my HTML skills by creating a recipe list. I know it'll be quite drab but that's what CSS is for! 
